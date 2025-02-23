@@ -100,7 +100,7 @@ Users can input property details via an intuitive interface:
 
 ## Demo
 - <div align="center">
-<img src="pictures/demo/demo_video.gif" width="400" alt="State page">
+<img src="pictures/demo/demo.gif" width="400" alt="State page">
 </div>
 
 ## Future Improvements
