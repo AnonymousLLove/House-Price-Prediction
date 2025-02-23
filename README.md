@@ -34,7 +34,7 @@ After submitting the form, the app displays the predicted house price.
 Users can input property details via an intuitive interface:
 - **Category**: Dropdown menu for selecting the category of property.
 <div align="center">
-<img src="pictures/demo/category.png" width="400" alt="State page">
+<img src="pictures/demo/category.png" width="400" alt="Category page">
 </div>
 
 - **State**: Dropdown menu for selecting the state in Nigeria.
@@ -44,7 +44,7 @@ Users can input property details via an intuitive interface:
 
 - **Town**: Dropdown menu for the property’s town.
 <div align="center">
-<img src="pictures/demo/town.png" width="400" height:"200" alt="TownPage">
+<img src="pictures/demo/town.png" width="400" height:"200" alt="Town Page">
 </div>
 
 - **Number of Bedrooms**: Input for the number of bedrooms.
