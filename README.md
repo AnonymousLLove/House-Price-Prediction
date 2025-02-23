@@ -100,8 +100,9 @@ Users can input property details via an intuitive interface:
 
 ## Demo
 - <div align="center">
-<img src="pictures/demo/demo.gif" width="400" alt="State page">
+<img src="pictures/demo/demo.gif" width="400" alt="Demo video">
 </div>
+Screen Recording of House Price Prediction App
 
 ## Future Improvements
 - **Add more fields**: Additional property details like amenities, and age of the building.
