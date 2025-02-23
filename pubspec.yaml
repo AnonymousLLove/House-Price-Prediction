@@ -70,10 +70,7 @@ flutter:
   #   - images/a_dot_ham.jpeg
   assets:
     - pictures/images.jpeg
-    - pictures/images.jpeg
-    - pictures/images.jpeg
-    - Record (online-voice-recorder.com).mp3
-    - Record (online-voice-recorder.com)-2.mp3
+    - pictures/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images

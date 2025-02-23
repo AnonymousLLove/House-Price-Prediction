@@ -42,7 +42,7 @@ class MyApp extends StatelessWidget {
                         aspectRatio: 2.0,
                         enlargeCenterPage: true,
                         enableInfiniteScroll: true,
-                        initialPage: 2,
+                        initialPage: 0,
                         autoPlay: true,
                       ),
                       items: Category.categories

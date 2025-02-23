@@ -114,4 +114,3 @@ Users can input property details via an intuitive interface:
 This project was created as part of my learning journey in *Flutter and Data Science*. Contributions and feedback are welcome!
 
 ---
-
